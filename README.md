@@ -34,6 +34,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1220-count-vowels-permutation](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1220-count-vowels-permutation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Combinatorics
