@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0831-masking-personal-information](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0831-masking-personal-information) |
 | [1768-merge-strings-alternately](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1768-merge-strings-alternately) |
 | [2299-strong-password-checker-ii](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2299-strong-password-checker-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2351-first-letter-to-appear-twice) |
