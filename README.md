@@ -14,6 +14,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0371-sum-of-two-integers) |
 | [2351-first-letter-to-appear-twice](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
@@ -26,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0371-sum-of-two-integers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Dynamic Programming
 |  |
