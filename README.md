@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0371-sum-of-two-integers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Dynamic Programming
 |  |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
