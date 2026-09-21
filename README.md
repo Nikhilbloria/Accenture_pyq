@@ -26,6 +26,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0011-container-with-most-water) |
 | [1768-merge-strings-alternately](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
@@ -53,6 +54,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0011-container-with-most-water) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1991-find-the-middle-index-in-array) |
 | [3524-find-x-value-of-array-i](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3524-find-x-value-of-array-i) |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3498-reverse-degree-of-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
