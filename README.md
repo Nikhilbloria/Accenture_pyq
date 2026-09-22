@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0125-valid-palindrome) |
 | [0831-masking-personal-information](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0831-masking-personal-information) |
 | [1768-merge-strings-alternately](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1768-merge-strings-alternately) |
 | [2299-strong-password-checker-ii](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2299-strong-password-checker-ii) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1768-merge-strings-alternately) |
 ## Math
