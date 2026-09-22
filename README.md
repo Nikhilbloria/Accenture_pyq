@@ -6,6 +6,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0387-first-unique-character-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2351-first-letter-to-appear-twice](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2351-first-letter-to-appear-twice) |
 ## String
@@ -15,6 +16,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0387-first-unique-character-in-a-string) |
 | [0831-masking-personal-information](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0831-masking-personal-information) |
 | [1768-merge-strings-alternately](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1768-merge-strings-alternately) |
 | [2299-strong-password-checker-ii](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2299-strong-password-checker-ii) |
@@ -29,6 +31,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2351-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
@@ -120,4 +123,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0242-valid-anagram) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
