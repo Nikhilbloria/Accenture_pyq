@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0242-valid-anagram) |
 | [0831-masking-personal-information](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0831-masking-personal-information) |
 | [1768-merge-strings-alternately](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1768-merge-strings-alternately) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1768-merge-strings-alternately) |
 ## Math
