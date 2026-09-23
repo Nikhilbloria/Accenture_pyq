@@ -71,6 +71,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0189-rotate-array) |
+| [0875-koko-eating-bananas](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1991-find-the-middle-index-in-array) |
 | [3524-find-x-value-of-array-i](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3524-find-x-value-of-array-i) |
@@ -78,6 +79,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
 |  |
