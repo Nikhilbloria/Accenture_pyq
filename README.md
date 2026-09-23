@@ -129,4 +129,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0387-first-unique-character-in-a-string) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
