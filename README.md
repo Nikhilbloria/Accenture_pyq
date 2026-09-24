@@ -8,6 +8,7 @@
 | [0242-valid-anagram](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0560-subarray-sum-equals-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2351-first-letter-to-appear-twice) |
@@ -68,6 +69,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0560-subarray-sum-equals-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1991-find-the-middle-index-in-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1991-find-the-middle-index-in-array) |
@@ -76,6 +78,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0189-rotate-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
