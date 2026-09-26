@@ -11,6 +11,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0560-subarray-sum-equals-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
@@ -23,6 +24,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0387-first-unique-character-in-a-string) |
 | [0831-masking-personal-information](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0831-masking-personal-information) |
 | [1768-merge-strings-alternately](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2299-strong-password-checker-ii](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2299-strong-password-checker-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2351-first-letter-to-appear-twice) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3498-reverse-degree-of-a-string) |
@@ -82,6 +84,7 @@
 | [0875-koko-eating-bananas](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1991-find-the-middle-index-in-array) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [3524-find-x-value-of-array-i](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3524-find-x-value-of-array-i) |
