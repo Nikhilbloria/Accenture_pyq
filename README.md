@@ -25,6 +25,7 @@
 | [0383-ransom-note](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0387-first-unique-character-in-a-string) |
 | [0831-masking-personal-information](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0831-masking-personal-information) |
+| [0856-score-of-parentheses](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1768-merge-strings-alternately) |
@@ -170,6 +171,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -177,6 +179,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
