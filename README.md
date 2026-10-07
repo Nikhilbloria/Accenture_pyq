@@ -22,6 +22,7 @@
 | [0125-valid-palindrome](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0387-first-unique-character-in-a-string) |
 | [0831-masking-personal-information](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0831-masking-personal-information) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0102-binary-tree-level-order-traversal) |
+| [0301-remove-invalid-parentheses](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Tree
 |  |
 | ------- |
@@ -195,4 +197,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
