@@ -1,12 +1,18 @@
 class Solution {
 public:
     long long maxAlternatingSum(vector<int>& nums) {
-        vector<long long> sq;
-        for (int x : nums) sq.push_back(1LL * x * x);
-        int h = sq.size() / 2;
-        nth_element(sq.begin(), sq.begin() + h, sq.end());  // quickselect: the smallest half in front, any order
-        long long total = accumulate(sq.begin(), sq.end(), 0LL);
-        long long small = accumulate(sq.begin(), sq.begin() + h, 0LL);
-        return total - 2 * small;  // add everything, then flip the smallest half to minus
+        for(int i=0;i<nums.size();i++){
+            nums[i]=nums[i]*nums[i];
+        }
+        sort(nums.begin(),nums.end());
+        long long sum1 =0,sum2 =0;
+        int n = nums.size();
+        for(int i=0;i<n/2;i++){
+            sum1 += nums[i];
+        }
+        for(int i=n/2;i<n;i++){
+            sum2 += nums[i];
+        }
+        return sum2-sum1;
     }
 };
