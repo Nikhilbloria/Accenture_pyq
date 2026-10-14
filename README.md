@@ -64,6 +64,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
