@@ -35,6 +35,7 @@
 | [2299-strong-password-checker-ii](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2299-strong-password-checker-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2351-first-letter-to-appear-twice) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
