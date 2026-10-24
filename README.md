@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0371-sum-of-two-integers) |
 | [0788-rotated-digits](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0788-rotated-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -149,6 +150,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0258-add-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
@@ -243,4 +245,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
