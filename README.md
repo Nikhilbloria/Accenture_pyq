@@ -64,6 +64,7 @@
 | [0258-add-digits](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0371-sum-of-two-integers) |
 | [0788-rotated-digits](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0788-rotated-digits) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -102,6 +103,7 @@
 | [0189-rotate-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0875-koko-eating-bananas) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
