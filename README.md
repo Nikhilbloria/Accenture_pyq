@@ -62,6 +62,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0371-sum-of-two-integers) |
 | [0788-rotated-digits](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0788-rotated-digits) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0204-count-primes) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0875-koko-eating-bananas) |
 | [1254-number-of-closed-islands](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1254-number-of-closed-islands) |
@@ -255,9 +257,26 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0258-add-digits) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1254-number-of-closed-islands) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
