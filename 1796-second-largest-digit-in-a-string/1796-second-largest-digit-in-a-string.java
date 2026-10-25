@@ -1,20 +1,23 @@
 class Solution {
     public int secondHighest(String s) {
-        int n = s.length();
-        int larg = -1;
-        int sec = -1;
-        for(int i=0;i<n;i++){
+        HashMap<Integer,Integer> map = new HashMap<>();
+        for(int i=0;i<s.length();i++){
             char c = s.charAt(i);
             if(Character.isDigit(c)){
-                int digit = c - '0';
-                if(digit>larg){
-                    sec = larg;
-                    larg = digit;
-                }else if(digit<larg && digit>sec){
-                    sec = digit;
-                }
+                int digit = c -'0';
+                map.put(digit,1);
             }
         }
-        return sec;
+        int largest = -1;
+        int second = -1;
+        for(int digit:map.keySet()){
+            if(digit>largest){
+                second = largest;
+                largest = digit;
+            }else if (digit>second){
+                second = digit;
+            }
+        }
+        return second;
     }
-}   
+}
