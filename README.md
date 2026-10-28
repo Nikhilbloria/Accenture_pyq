@@ -9,6 +9,7 @@
 | [0383-ransom-note](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0763-partition-labels) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1796-second-largest-digit-in-a-string) |
@@ -26,6 +27,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0387-first-unique-character-in-a-string) |
+| [0763-partition-labels](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0763-partition-labels) |
 | [0831-masking-personal-information](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0831-masking-personal-information) |
 | [0856-score-of-parentheses](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -59,6 +61,7 @@
 | [0125-valid-palindrome](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0189-rotate-array) |
+| [0763-partition-labels](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0763-partition-labels) |
 | [1768-merge-strings-alternately](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
@@ -169,6 +172,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0011-container-with-most-water) |
+| [0763-partition-labels](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3727-maximum-alternating-sum-of-squares) |
