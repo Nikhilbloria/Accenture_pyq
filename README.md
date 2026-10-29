@@ -40,6 +40,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2351-first-letter-to-appear-twice) |
 | [2409-count-days-spent-together](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
@@ -47,6 +48,7 @@
 | [0371-sum-of-two-integers](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0371-sum-of-two-integers) |
 | [2351-first-letter-to-appear-twice](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2351-first-letter-to-appear-twice) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting
 |  |
@@ -129,6 +131,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
@@ -152,6 +155,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0102-binary-tree-level-order-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -188,6 +192,7 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -248,6 +253,7 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -274,6 +280,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1254-number-of-closed-islands) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -290,4 +297,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0204-count-primes) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
