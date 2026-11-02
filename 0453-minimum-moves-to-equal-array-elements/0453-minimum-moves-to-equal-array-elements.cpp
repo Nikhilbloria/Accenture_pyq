@@ -6,8 +6,11 @@ public:
         int sum = 0;
         for(int i=0;i<n;i++){
             mini = min(mini,nums[i]);
-            sum+=nums[i];
+            // sum+=nums[i];
         }
-        return sum - n*mini;
+        for(int i=0;i<n;i++){
+            sum += nums[i]-mini;
+        }
+        return sum;
     }
 };
