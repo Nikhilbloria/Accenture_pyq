@@ -75,6 +75,7 @@
 | [0204-count-primes](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0788-rotated-digits](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0788-rotated-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -116,6 +117,7 @@
 | [0011-container-with-most-water](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0204-count-primes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0875-koko-eating-bananas) |
 | [1254-number-of-closed-islands](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1254-number-of-closed-islands) |
