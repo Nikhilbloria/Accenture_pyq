@@ -65,6 +65,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0189-rotate-array) |
 | [0763-partition-labels](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0763-partition-labels) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
@@ -125,6 +126,7 @@
 | [0875-koko-eating-bananas](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0875-koko-eating-bananas) |
 | [1254-number-of-closed-islands](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -207,6 +210,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Queue
