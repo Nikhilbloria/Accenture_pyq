@@ -15,6 +15,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1796-second-largest-digit-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2351-first-letter-to-appear-twice) |
+| [2747-count-zero-request-servers](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
 |  |
@@ -137,6 +138,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2747-count-zero-request-servers](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2747-count-zero-request-servers) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3524-find-x-value-of-array-i) |
@@ -162,6 +164,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Geometry
 |  |
@@ -217,6 +220,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2747-count-zero-request-servers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Queue
 |  |
