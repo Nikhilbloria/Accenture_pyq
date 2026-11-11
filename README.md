@@ -58,6 +58,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1267-count-servers-that-communicate) |
 | [2351-first-letter-to-appear-twice](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2351-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
@@ -129,6 +130,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0875-koko-eating-bananas) |
 | [1254-number-of-closed-islands](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -182,6 +184,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0102-binary-tree-level-order-traversal) |
 | [0301-remove-invalid-parentheses](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -272,6 +275,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3665-twisted-mirror-path-count](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -289,6 +293,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -311,6 +316,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/1267-count-servers-that-communicate) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikhilbloria/Accenture_pyq/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Enumeration
 |  |
